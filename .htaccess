@@ -1,0 +1,28 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# Permitir acceso a archivos y directorios
+<IfModule mod_negotiation.c>
+    Options -MultiViews
+</IfModule>
+
+# Asegurar que los archivos PHP se ejecuten
+AddType application/x-httpd-php .php
+
+# Configuración de errores
+php_flag display_errors on
+php_value error_reporting E_ALL
+
+# Permitir acceso a directorios específicos
+<Directory "reports">
+    Order Allow,Deny
+    Allow from all
+</Directory>
+
+<Directory "altas">
+    Order Allow,Deny
+    Allow from all
+</Directory>
+
+# Prevenir listado de directorios
+Options -Indexes 
