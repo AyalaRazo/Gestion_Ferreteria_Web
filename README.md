@@ -23,7 +23,7 @@ It allows you to manage **products, branches, suppliers, purchases, sales, trans
 - Error handling and user notifications.
 
 ### 🚀 Execution
-1. Install the database model in your phpMyAdmin
+1. Install the database model `proyecto.sql` in your phpMyAdmin
 2. Configure the database connection in `db.php`.
 3. Deploy the project in a **PHP + MySQL environment** (e.g., XAMPP or AppServ).
 
@@ -58,7 +58,7 @@ Permite administrar **productos, sucursales, proveedores, compras, ventas, trans
 - Manejo de errores y notificaciones al usuario.
 
 ### 🚀 Ejecución
-1. Instala el modelo de base de datos en tu phpMyAdmin
+1. Instala el modelo de base de datos `proyecto.sql` en tu phpMyAdmin
 2. Configura la conexión a la base de datos en `db.php`.  
 3. Despliega el proyecto en un **entorno PHP + MySQL** (ejemplo: XAMPP o AppServ).
 
