@@ -23,11 +23,12 @@ It allows you to manage **products, branches, suppliers, purchases, sales, trans
 - Error handling and user notifications.
 
 ### 🚀 Execution
-1. Deploy the project in a **PHP + MySQL environment** (e.g., XAMPP or AppServ).  
-2. Configure the database connection in `db.php`.  
+1. Install the database model in your phpMyAdmin
+2. Configure the database connection in `db.php`.
+3. Deploy the project in a **PHP + MySQL environment** (e.g., XAMPP or AppServ).
 
 Access the system via:  
-👉 [http://localhost/Proyecto_BD/index.php](http://localhost/Proyecto_BD/index.php)
+👉 http://localhost/rootfile/index.php
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -57,71 +58,72 @@ Permite administrar **productos, sucursales, proveedores, compras, ventas, trans
 - Manejo de errores y notificaciones al usuario.
 
 ### 🚀 Ejecución
-1. Despliega el proyecto en un **entorno PHP + MySQL** (ejemplo: XAMPP o AppServ).  
+1. Instala el modelo de base de datos en tu phpMyAdmin
 2. Configura la conexión a la base de datos en `db.php`.  
+3. Despliega el proyecto en un **entorno PHP + MySQL** (ejemplo: XAMPP o AppServ).
 
 Accede al sistema mediante:  
-👉 [http://localhost/Proyecto_BD/index.php](http://localhost/Proyecto_BD/index.php)
+👉 http://localhost/carpetaraiz/index.php
 
 ## Images
 
 <div align=center >
-  <img width="1653" height="730" alt="image" src="https://github.com/user-attachments/assets/fba19974-8b14-4bba-a801-7c3cdfaa2b2f" />
+  <img width="1653" height="730" alt="Captura de pantalla 2025-09-27 233258" src="https://github.com/user-attachments/assets/2ab6f9ed-9b14-48ac-a21b-4012de399f54" />
 
   #
 
-  <img width="1666" height="914" alt="image" src="https://github.com/user-attachments/assets/a8d39673-312a-40dc-8d21-3b7572bff2d6" />
+  <img width="1666" height="914" alt="Captura de pantalla 2025-09-27 233420" src="https://github.com/user-attachments/assets/5b67194a-b959-4c66-80ad-d27bd9054c22" />
 
   #
 
-  <img width="1668" height="911" alt="image" src="https://github.com/user-attachments/assets/9c61c11e-7ba0-42c5-b60e-86a463774c4e" />
+  <img width="1668" height="911" alt="Captura de pantalla 2025-09-27 233448" src="https://github.com/user-attachments/assets/e553d059-8951-4c3e-b704-5db8169b4499" />
 
   #
 
-  <img width="1668" height="916" alt="image" src="https://github.com/user-attachments/assets/1fb82c84-899a-4afa-8040-24384a47fc69" />
+  <img width="1668" height="916" alt="Captura de pantalla 2025-09-27 233513" src="https://github.com/user-attachments/assets/f0637a8a-7322-4ada-b44f-28ca5041d1d4" />
 
   #
 
-  <img width="1669" height="913" alt="image" src="https://github.com/user-attachments/assets/223ac41e-b0ec-4d3c-95ef-1f1c99dac08c" />
+  <img width="1669" height="913" alt="Captura de pantalla 2025-09-27 233535" src="https://github.com/user-attachments/assets/fb06f885-6113-49ba-8372-2a7e67dd3f36" />
 
   #
 
-  <img width="1661" height="913" alt="image" src="https://github.com/user-attachments/assets/4b33ca52-83fe-4af0-9a45-46969651dc40" />
+  <img width="1661" height="913" alt="Captura de pantalla 2025-09-27 233618" src="https://github.com/user-attachments/assets/d3d10fca-00a5-49ed-81c8-3bb65fc16f4d" />
 
   #
 
-  <img width="1664" height="914" alt="image" src="https://github.com/user-attachments/assets/e3f16eb1-a2e3-47cb-a5e3-9bef7af2e69f" />
+  <img width="1664" height="914" alt="Captura de pantalla 2025-09-27 233651" src="https://github.com/user-attachments/assets/1cf70192-7f57-44b7-9505-1e4eae33b324" />
 
   #
 
-  <img width="1663" height="908" alt="image" src="https://github.com/user-attachments/assets/d3582849-7cbd-48dc-9ef9-c7e9382881f4" />
+  <img width="1663" height="908" alt="Captura de pantalla 2025-09-27 233714" src="https://github.com/user-attachments/assets/92abeff9-f2c6-4219-8398-bb3a5ddd2cb6" />
 
   #
 
-  <img width="1667" height="907" alt="image" src="https://github.com/user-attachments/assets/10036b11-39df-45a7-a0f0-8c4ffd36585a" />
+  <img width="1667" height="907" alt="Captura de pantalla 2025-09-27 233735" src="https://github.com/user-attachments/assets/96b0793b-1bdb-459e-9df1-113c1f8826f2" />
 
   #
 
-  <img width="1664" height="912" alt="image" src="https://github.com/user-attachments/assets/2f5733e8-8434-43d8-8f44-4cd89f1ebe87" />
+  <img width="1664" height="912" alt="Captura de pantalla 2025-09-27 233800" src="https://github.com/user-attachments/assets/bfd7bb26-a8e6-4d68-a347-b96f44eeb515" />
 
   #
 
-  <img width="1669" height="908" alt="image" src="https://github.com/user-attachments/assets/dcae03a2-d00a-4fb8-8df3-2332c5716e1d" />
+ <img width="1669" height="908" alt="Captura de pantalla 2025-09-27 233815" src="https://github.com/user-attachments/assets/a1e2483f-83d5-4bf8-9955-9b68a4bb3e37" />
 
   #
 
-  <img width="1666" height="914" alt="image" src="https://github.com/user-attachments/assets/81ccafa6-ac03-4ecf-a680-18a1a72d7e20" />
+  <img width="1666" height="914" alt="Captura de pantalla 2025-09-27 233905" src="https://github.com/user-attachments/assets/620c77f1-4bac-49b4-9562-78985db7366a" />
 
   #
 
-  <img width="1665" height="907" alt="image" src="https://github.com/user-attachments/assets/a6e989ce-d89a-409a-9f3b-21440d7cdd6f" />
+  <img width="1665" height="907" alt="Captura de pantalla 2025-09-27 233927" src="https://github.com/user-attachments/assets/7886e077-3b14-44c1-a71f-6a6763013d35" />
 
   #
 
-  <img width="1659" height="913" alt="image" src="https://github.com/user-attachments/assets/c578a20c-f43d-418a-9e6f-0587222c17a0" />
+  <img width="1659" height="913" alt="Captura de pantalla 2025-09-27 233955" src="https://github.com/user-attachments/assets/b453442a-235d-4b7d-8664-07e62ace61fb" />
 
   #
 
-  <img width="1663" height="912" alt="image" src="https://github.com/user-attachments/assets/ac013bcd-c11e-443a-b6a2-901f6dc3f1a3" />
+  <img width="1663" height="912" alt="Captura de pantalla 2025-09-27 234021" src="https://github.com/user-attachments/assets/b3f401b9-a762-4926-a2b0-b6e5805e6e00" />
 </div>
 
